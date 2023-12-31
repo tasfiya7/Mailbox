@@ -2,3 +2,5 @@ This is a program that manages an email system (like a stripped down version of 
 of the usual email features like deleting emails, creating new emails,
 moving emails to different folders, adding and removing emails, and the
 like. 
+
+- incoorporating Java API
